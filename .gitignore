@@ -1,0 +1,14 @@
+# Ignore binaries
+build/
+*.exe
+*.o
+
+# Ignore intermediate files
+*.out
+*.log
+*.yy.c
+*.tab.c
+*.tab.h
+
+# VSCode settings (optional)
+.vscode/
