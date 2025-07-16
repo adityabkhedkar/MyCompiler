@@ -1,0 +1,7 @@
+Compiler environment is ready!
+
+TOKEN: FLOAT, LEXEME: 'float' at line 1, column 1
+TOKEN: ID, LEXEME: 'x' at line 1, column 7
+TOKEN: ASSIGN, LEXEME: '=' at line 1, column 9
+TOKEN: FLOATLIT, LEXEME: '3.14' at line 1, column 11
+TOKEN: SEMICOLON, LEXEME: ';' at line 1, column 15

@@ -1,0 +1,37 @@
+Compiler environment is ready!
+
+TOKEN: INT, LEXEME: 'int' at line 1, column 1
+TOKEN: ID, LEXEME: 'main' at line 1, column 5
+TOKEN: LPAREN, LEXEME: '(' at line 1, column 9
+TOKEN: RPAREN, LEXEME: ')' at line 1, column 10
+TOKEN: LBRACE, LEXEME: '{' at line 1, column 12
+TOKEN: INT, LEXEME: 'int' at line 2, column 5
+TOKEN: ID, LEXEME: 'var123' at line 2, column 9
+TOKEN: SEMICOLON, LEXEME: ';' at line 2, column 15
+TOKEN: FLOAT, LEXEME: 'float' at line 3, column 5
+TOKEN: ID, LEXEME: 'f12_12' at line 3, column 11
+TOKEN: SEMICOLON, LEXEME: ';' at line 3, column 17
+TOKEN: CHAR, LEXEME: 'char' at line 4, column 5
+TOKEN: ID, LEXEME: 'special' at line 4, column 10
+TOKEN: SEMICOLON, LEXEME: ';' at line 4, column 17
+TOKEN: IF, LEXEME: 'if' at line 6, column 5
+TOKEN: LPAREN, LEXEME: '(' at line 6, column 8
+TOKEN: ID, LEXEME: 'x' at line 6, column 9
+TOKEN: EQ, LEXEME: '==' at line 6, column 11
+TOKEN: NUM, LEXEME: '5' at line 6, column 14
+TOKEN: RPAREN, LEXEME: ')' at line 6, column 15
+TOKEN: LBRACE, LEXEME: '{' at line 6, column 17
+TOKEN: RETURN, LEXEME: 'return' at line 7, column 9
+TOKEN: NUM, LEXEME: '0' at line 7, column 16
+TOKEN: SEMICOLON, LEXEME: ';' at line 7, column 17
+TOKEN: RBRACE, LEXEME: '}' at line 8, column 5
+TOKEN: CHAR, LEXEME: 'char' at line 11, column 5
+TOKEN: MUL, LEXEME: '*' at line 11, column 9
+TOKEN: ID, LEXEME: 'str' at line 11, column 11
+TOKEN: ASSIGN, LEXEME: '=' at line 11, column 15
+TOKEN: STRING, LEXEME: '"closed string"' at line 11, column 17
+TOKEN: SEMICOLON, LEXEME: ';' at line 11, column 32
+TOKEN: RETURN, LEXEME: 'return' at line 15, column 5
+TOKEN: NUM, LEXEME: '0' at line 15, column 12
+TOKEN: SEMICOLON, LEXEME: ';' at line 15, column 13
+TOKEN: RBRACE, LEXEME: '}' at line 16, column 1
